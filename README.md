@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in MIT Pune
 -------------------
 
-I've been Learning Python(py) from last 4 years and C/C++ from last 2 years. Currently I'm Learing Artificial Intelligence and Data Science
+I've been Learning Python(py) from last 4 years and C/C++ from last 2 years. Currently I'm Learing Artificial Intelligence , Machine Learning and Data Science
 
 * 🌍  I'm based in Pune,India
 * ✉️  You can contact me at [manojvnayak@outlook.in](mailto:manojvnayak@outlook.in)
