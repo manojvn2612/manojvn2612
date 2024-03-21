@@ -9,6 +9,7 @@ I've been Learning Python(py) from last 4 years and C/C++ from last 2 years. Cur
 
 * 🌍  I'm based in Pune,India
 * ✉️  You can contact me at [manojvnayak@outlook.in](mailto:manojvnayak@outlook.in)
+* Kaggle Account https://www.kaggle.com/manojvn2612
 * 🧠  I'm learning Data Analytics and Machine Learning
 
 <a href="https://www.github.com/manojvn2612" target="_blank" rel="noreferrer"><img
