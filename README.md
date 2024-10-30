@@ -40,5 +40,12 @@ src="https://img.shields.io/github/followers/manojvn2612?logo=github&style=for-t
 <a href="https://github.com/manojvn2612" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojvn2612&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+### Top Repositories
+
+| Repository | Stars | Forks | Description |
+|------------|-------|-------|-------------|
+| [Chatbot](https://github.com/manojvn2612/chatbot) | ![Stars](https://img.shields.io/github/stars/manojvn2612/chatbot?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/chatbot) | Chatbot Application for Simple tasks and Code generation in the second branch |
+| [Maha metro Hackathon](https://github.com/manojvn2612/Maha-metro-Hackathon) | ![Stars](https://img.shields.io/github/stars/manojvn2612/Maha-metro-Hackathon?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/Maha-metro-Hackathon) | Yolov8 Based platform edge detection for passeger safety bulit for Pune mahametro hackthon |
+| [AIR BOARD](https://github.com/manojvn2612/AIR-BOARD) | ![Stars](https://img.shields.io/github/stars/manojvn2612/AIR-BOARD?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/AIR-BOARD) | A Virtual Board for teachers which can be used to teach in online class |
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
