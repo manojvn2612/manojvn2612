@@ -44,7 +44,8 @@ src="https://img.shields.io/github/followers/manojvn2612?logo=github&style=for-t
 | Repository | Stars | Forks | Description |
 |------------|-------|-------|-------------|
 | [Chatbot](https://github.com/manojvn2612/chatbot) | ![Stars](https://img.shields.io/github/stars/manojvn2612/chatbot?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/chatbot) | Chatbot Application for Simple tasks and Code generation in the second branch |
-| [Maha metro Hackathon](https://github.com/manojvn2612/Maha-metro-Hackathon) | ![Stars](https://img.shields.io/github/stars/manojvn2612/Maha-metro-Hackathon?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/Maha-metro-Hackathon) | Yolov8 Based platform edge detection for passeger safety bulit for Pune mahametro hackthon |
+| [Maha metro Hackathon](https://github.com/manojvn2612/MahaMetro) | ![Stars](https://img.shields.io/github/stars/manojvn2612/MahaMetro?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/MahaMetro) | Yolov8 Based platform edge detection for passeger safety bulit for Pune mahametro hackthon |
 | [AIR BOARD](https://github.com/manojvn2612/AIR-BOARD) | ![Stars](https://img.shields.io/github/stars/manojvn2612/AIR-BOARD?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/AIR-BOARD) | A Virtual Board for teachers which can be used to teach in online class |
+| [Ray Tracing](https://github.com/manojvn2612/Ray-Tracing) | ![Stars](https://img.shields.io/github/stars/manojvn2612/Ray-Tracing?style=social) | ![Forks](https://img.shields.io/github/forks/manojvn2612/Ray-Tracing) | Basic Ray Tracing Algo using SDL3 |
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
