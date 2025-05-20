@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in MIT Pune
 -------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=manojvn2612)](https://github.com/ryo-ma/github-profile-trophy)
-I've been Learning Python(py) from last 4 years and C/C++ from last 2 years. Currently I'm Learing Artificial Intelligence , Machine Learning and Data Science
+Trying to run my neurons to push machine more smarter
 
 * 🌍  I'm based in Pune,India
 * ✉️  You can contact me at [manojvnayak@outlook.in](mailto:manojvnayak@outlook.in)
